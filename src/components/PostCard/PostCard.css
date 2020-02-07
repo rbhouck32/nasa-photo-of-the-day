@@ -1,0 +1,14 @@
+.title-date {
+  display: flex;
+  justify-content: space-around;
+  height: 100px;
+  background-color: bisque;
+}
+
+.title-date h3 {
+  width: 49%;
+}
+
+img {
+  margin-top: 10px;
+}
